@@ -6,6 +6,7 @@ export default function Navbar() {
         <nav>
             <div className="logo">
                 <img src={airbnbLogo} alt="airbnb logo" className="nav--logo" />
+            clone
             </div>          
         </nav>
     )
